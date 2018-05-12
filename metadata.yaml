@@ -1,0 +1,33 @@
+_repo: Die-Organisation-der-Rohstoffversorgung_21031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathenau, Walther
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '9616'
+    url: http://www.gutenberg.org/2009/agents/9616
+    wikipedia: http://en.wikipedia.org/wiki/Walther_Rathenau
+description: ''
+gutenberg_bookshelf:
+- German Language Books
+- DE Sachbuch
+gutenberg_issued: '2007-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21031'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industries -- Germany (West)'
+- !lcc 'DD'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'HC'
+- !lcsh 'World War, 1914-1918 -- Economic aspects -- Germany'
+title: Die Organisation der Rohstoffversorgung
+url: http://www.gutenberg.org/ebooks/21031
